@@ -81,9 +81,6 @@
 
     <modules>
         <module>jmh-java-benchmark-archetype</module>
-        <module>jmh-scala-benchmark-archetype</module>
-        <module>jmh-groovy-benchmark-archetype</module>
-        <module>jmh-kotlin-benchmark-archetype</module>
     </modules>
 
 </project>
